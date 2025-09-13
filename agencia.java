@@ -30,6 +30,7 @@ public class Program
         }else {
             System.out.println("Veiculo não encontrado");
         }
-
+		sc.close();
+		
 	}
 }
